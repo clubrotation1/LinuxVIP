@@ -1,6 +1,5 @@
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@172.67.188.214:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D1
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@172.67.179.132:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D2
-vless://a23841f4-aae7-44f5-fa1f-579122f5de82@172.67.138.139:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D3
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@198.41.212.213:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D4
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@198.41.200.144:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D5
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@198.41.203.152:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D6
@@ -28,4 +27,4 @@ vless://a23841f4-aae7-44f5-fa1f-579122f5de82@104.17.148.173:80?security=tls&type
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@172.67.181.123:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D28
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@198.41.212.207:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D29
 vless://a23841f4-aae7-44f5-fa1f-579122f5de82@104.19.233.123:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D30
-vless://a23841f4-aae7-44f5-fa1f-579122f5de82@103.21.244.167:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D31
+vless://a23841f4-aae7-44f5-fa1f-579122f5de82@103.21.244.167:80?security=tls&type=ws&path=/&host=test.nikanet.name#Ⓜ️D31v
