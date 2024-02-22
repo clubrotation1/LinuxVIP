@@ -1,22 +1,298 @@
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chocolatemudwizard.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@flakecake1994.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@muddymudcat.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@cakegrinder7732.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@fishquiz.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@sandhanitizer.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@bestbritles.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@theskilletbros.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@rosewoodlander.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@turtlejuice3000.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chillgrillkrillwhale.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g#direct-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@chocolatemudwizard.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@flakecake1994.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@muddymudcat.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@cakegrinder7732.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@fishquiz.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@sandhanitizer.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@bestbritles.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@theskilletbros.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@rosewoodlander.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@turtlejuice3000.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
-vless://4a471796-7c30-42b7-af97-637630bd04de@chillgrillkrillwhale.nl.eu.org:443?security=tls&type=ws&path=/anonLhx0SFASG4l9FERJ1g&encryption=none#tor-runtu.nl.eu.org
+Legendaryking Servers, [2/16/2024 12:02 AM]
+فاکتور خرید کوروش کمپانی از یک شرکت پخش ایرانی!
+
+اینا همونای هستن ادعا داشتن مستقیم از چین میارن و الان مشخص شده گوشی ها رو از کف بازار علادین میخریدن اونم با قیمت ۳۱ میلیون!
+که پروژه پانزی بوده؟
+
+Legendaryking Servers, [2/16/2024 12:11 AM]
+کامنت‌های مردم زیر پستهای پیج موبایل موسوی ، یکی دیگه از فروشنده‌های آیفون ۲۰ میلیونی ، که اتفاقا با هزینه هنگفت ۸۰ میلیارد تومان اسپانسر تبلیغاتی استقلال هم شده!
+
+Legendaryking Servers, [2/16/2024 10:11 AM]
+🦈Px MCI ws | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://b7f52fbc-bd53-4cc6-9b32-a0a585e17107@www.legendaryking.link:8080?security=&fp=chrome&type=ws&path=/Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers?ed%3D2048&host=lgnd.%E8%AF%BA%E4%BA%9A%E7%BA%B3%E5%AE%89.site&encryption=none#Px%20MCI
+
+🤍 کانفیگ معمولی ؛ فقط همراه‌اول
+
+📱 Android (https://t.me/c/1698381150/4915)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/16/2024 10:12 AM]
+🦈ThePx gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://d7a6e691-eba4-4a64-b5fa-0ad2512e6005@www.legendaryking.link:443?security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&encryption=none#ThePx
+
+🤍 کانفیگ معمولی نامحدود تا زمان نامشخص 
+
+📱 Android (https://t.me/c/1698381150/4915)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/16/2024 10:53 AM]
+v2rayNG 1.8.16 (Universal)
+
+v2rayNG 1.8.16 (Arm64-v8a)
+
+v2rayNG 1.8.16 (Armeabi-v7a)
+
+v2rayNG 1.8.16 (X86)
+
+v2rayNG 1.8.16 (X86_64)
+
+📣 آپدیت جدید کلاینت v2rayNG ورژن Pre-release 1.8.16 (https://github.com/2dust/v2rayNG/releases/tag/1.8.16)
+
+What's news?
+1. Internal Fragment (https://t.me/c/1698381150/5672)🔥
+2. Automatic geo assest update
+3. Support for multiple custom configs in subscriptions
+
+🔴 نسخه مورد نظر رو دانلود کنید با توجه به پردازنده خودتون:
+نحوه پیدا کردن سری پردازنده (https://telegra.ph/%D8%B3%D8%A7%D8%AF%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D8%A7%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86-%D8%B3%D8%B1%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D9%86%D8%AF%D9%87-07-30)
+
+🟢 اگه میدونید میتونید برنامه رو به صورت کلی (Universal) دانلود کنید که روی همه موبایل ها به راحتی نصب میشه ( ممکنه روی موبایل های اندروید پایین به درستی نصب نشه )
+
+Legendaryking Servers, [2/16/2024 10:54 AM]
+پیشنهاد میشه سریعا آپدیت کنید.
+درمورد فرگمنت داخلی که اضافه شده الان ویدئویی میذارم که مشکل همراه‌اول یوزرا رو حل میکنه و عملکرد قابل قبولی داره.
+
+Legendaryking Servers, [2/16/2024 11:04 AM]
+نمونه اتصال روی همراه‌اول به کمک فرگمنت داخلی که اضافه شده ؛
+با مقادیری که من براش تعریف کردم پکت اول رو که شامل همون هندشیک میشه رو ۳ الی ۵ تیکه میکنه با فاصله ۵ میلی ثانیه.
+حداکثر ۱۵ میلی ثانیه تاخیر میندازه موقع اتصال که ناچیزه و معمولا با یه ری‌کانکت شدن درصورت وجود مشکل حل میشه.
+اگر هم با کانفیگ فرگمنت من حال نکردید از دیفالت خود اپ یا خودتون براش تعریف کنید.
+
+توجه داشته باشید که اگر مشکلی با اتصال روی اپراتورتون ندارید پیشنهاد نمیشه از فرگمنت استفاده کنید.
+
+تشکر ویژه ای هم میکنیم از وحید (https://github.com/2dust/v2rayNG/pull/2839) عزیز که چینی هارو قانع کرد تا فرگمنت رو اضافه کنند.
+
+Legendaryking Servers, [2/16/2024 12:37 PM]
+
+
+Legendaryking Servers, [2/16/2024 1:35 PM]
+
+
+Legendaryking Servers, [2/16/2024 8:28 PM]
+اینترنت ایرانسل دچار اختلال شدید منطقه ای شده.
+تقریبا از دیروز منطقه به منطقه اختلال میفتاد و دیشب درست شدن ؛
+درحال حاضر هم خیلی از مناطق بهم گزارش دادن که اختلال دارن.
+فعلا مشخص نیست اختلاله یا محدودیت جدید ؛
+چون بعضی جاها اوکی شدن احتمالا اختلال منطقه به منطقه باشه (یه نفر گفت دارن بیشتر مناطق رو دکل 5G میزنن و اختلال برای اینه ، از صحتش اطلاعی ندارم)
+
+Legendaryking Servers, [2/16/2024 9:54 PM]
+
+
+Legendaryking Servers, [2/16/2024 9:56 PM]
+
+
+Legendaryking Servers, [2/17/2024 6:58 AM]
+اختلال ایرانسل ظاهرا برطرف شده.
+اما
+فیلترینگ در فاز جدیدی شروع به فعالیت کرد.
+
+بیشتر دامنه هایی که روشون یه سایت ، آیپی کلادفلر بود ، از ریشه فیلتر شدن.
+این نشون میده که سیستم dpi فایروال ایران در طول این مدت داشته روی ترنسمیشن های مختلف عمیق در پکتها دنبال الگوریتم و یه سری fingerprint ها بوده تا بتونه راه تشخیص کانفیگ هارو ساده تر کنه و این اختلال عمدی بود!
+
+دیشب که این پروژه جدید رو لانچ کردن با درصد خطای بالا تا ساعاتی خیلی از سایتایی که لاگ کرده بود از جمله اسپید تست معروف از ریشه فیلتر شده بودند.
+
+با این فرض که اگر شما الان توی کانفیگتون بجای آدرس از اسپید‌ تست استفادده کنید ، به احتمال زیاد خیلی سریعتر دیتکت و فیلتر بشید!
+
+فعلا یه سری اطلاعات بود و با توجه به چیزایی که خودم تجربه کردم و دیدم یا تعریف کردن نوشتم. ممکنه به این شکل نباشه!
+تازه لانچ شده و فعلا ازش تجربه ای ندارم ، باید زمان بگذره تا ببینیم چی در انتظارمونه.
+تئوریش اینه!
+
+Legendaryking Servers, [2/17/2024 2:33 PM]
+سلام
+
+Legendaryking Servers, [2/17/2024 2:33 PM]
+ظهر بخیر
+
+Legendaryking Servers, [2/17/2024 2:54 PM]
+🦈Px MCI ws | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://56743bee-c9b4-4cc7-8a27-ff89431f5175@www.legendaryking.link:8080?security=&fp=chrome&type=ws&path=/Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers?ed%3D2048&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&encryption=none#Px%20MCI
+
+🤍 کانفیگ معمولی ؛ فقط همراه‌اول
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/17/2024 2:56 PM]
+🦈ThePx gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://7db948c9-09d3-4882-85ce-e1a390a1a644@www.legendaryking.link:443?security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&encryption=none#ThePx
+
+🤍 کانفیگ معمولی نامحدود تا زمان نامشخص 
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/17/2024 9:23 PM]
+یه شوخی ساده بین پسرا
+
+Legendaryking Servers, [2/18/2024 1:14 PM]
+این اختلال نیست.
+
+کم کردن پهنای باند خارج ایرانسل ، رایتل و .. عمدیه ؛
+تقریبا شبا تا صبح ساعاتی کاملا به روال عادیش برمیگرده.
+این کم کردن پهنای باند برای انجام dpi روی آیپی های ۳۲ بیتی TLS in TLS انجام میشه.
+بیشتر در ساعات اوج ترافیک فشار روی ترنسمیشن های خاصی اعمال میشه ؛
+در این ساعات فایروال به اصطلاح overload میشه و برای اینکه بتونن dpi رو انجام بدن و پکت هارو برسی کنند تا الگو های مختلف ترنسمیشن هایی مثل ws یا gRPC رو مورد برسی قرار بدن پهنای باند بین‌المللی رو کم میکنن.
+
+اینکه تا کی ادامه داره معلوم نیست.
+
+باز هم میگم این فقط تئوریشه ؛
+بحث فنیش نیاز به بررسی و تست های بیشتر داره!
+
+Legendaryking Servers, [2/19/2024 1:30 PM]
+دقیقا پارسال همین زمان بود که همراه‌اول آیپی هارو فیلتر و از ساب دامنه تا روت دامنه فیلتر میکرد ؛
+ایرانسل اون زمان حساسیتی نداشت و فقط روی رنج های زیادی از آیپی ها اختلال سنگین انداخته بود ؛
+اون زمان رنجی بود تحت عنوان رنج ۴۵ کلادفلر که برای ایرانسل هیچ محدودیتی نداشتن و عملکرد قابل قبولی داشتن.
+
+درمورد فرگمنت ازم سوال پرسیدن و گفتن چطور کار میکنه که باعث میشه اون دامنه (SNI) من وایت بشه و کار کنه ؛ 
+فرگمنت چیزیو وایت نمیکنه ، فقط اون دامنه ما رو (SNI) تیکه تیکه میکنه و باعث میشه فایروال متوجه این معقوله نشه و بفهمه server hello از جانب کی میاد.
+خب چرا ایرانسل برای فرگمنت عملکرد درستی نداره؟
+چون ایرانسل دامنه رو محدود نمیکنه ، آیپی هارو محدود کرده. پس فرگمنت روش تاثیری نداره!
+
+چینی ها اصلا فرگمنت ندارن و اونا حتی چیزی به اسم فرگمنت آشنایی درستی هم ندارن! روسیه تکنیک های ضد فرگمنت داره و تونسته کامل جلوشو بگیره.
+یکی از تکنیک هاش اینه که ببینه پکت client hello کامله یا نه ، اگر کامل نبود جلوشو بگیره!
+البته این به حرف سادست و اجرایی کردنش بشدت سخته ؛
+همراه‌اول کم کم داره همون سیستم رو اجرایی میکنه و جلوی فرگمنت رو میگیره.
+
+Legendaryking Servers, [2/19/2024 3:35 PM]
+🦈Px MCI ws | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://b54ae54c-4c54-4bf0-923c-6330cd7a163b@www.legendaryking.link:8080?security=&fp=chrome&type=ws&path=/Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers?ed%3D2048&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&encryption=none#Px%20MCI
+
+🤍 کانفیگ معمولی ؛ فقط همراه‌اول
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/19/2024 3:36 PM]
+🦈ThePx gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://5f22e4bf-e3e7-4af0-afd3-6239a556576a@www.legendaryking.link:443?security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&encryption=none#ThePx
+
+🤍 کانفیگ معمولی نامحدود تا زمان نامشخص 
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/19/2024 3:39 PM]
+
+
+Legendaryking Servers, [2/21/2024 7:14 AM]
+🦈Px MCI ws | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://84aaaa8d-6536-4f29-ad09-3c91ac0736f3@www.legendaryking.link:8080?path=/Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers?ed%3D2048&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&type=ws#Px+MCI
+
+🤍 کانفیگ معمولی ؛ فقط همراه‌اول
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/21/2024 7:15 AM]
+🦈ThePx gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://5e78bbe8-eabb-4ed2-9197-feaf20be7771@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#ThePx
+
+🤍 کانفیگ معمولی نامحدود تا زمان نامشخص 
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/21/2024 7:25 AM]
+
+
+Legendaryking Servers, [2/21/2024 9:50 PM]
+درود و شب بخیر
+
+همون‌طور که می‌دونین فرگمنت به اپ v2rayNG اضافه شده ولی می‌تونه خیلی بهتر از چیزی باشه که الان هست، چونکه الان باید یا از قسمت تنظیمات تیک‌ فرگمنت رو بزنیم که این باعث میشه کانفیگ‌های ریلیتی ما همشون از کار بیفته. یا باید کاری به تیک نداشته باشیم و Json ایمپورت کنیم. 
+
+چطور می‌تونه بهتر بشه؟ اگر مثل کلاینت Streisand که فرگمنت برای هر کانفیگ مجزا تعیین میشه دیگه نه نیاز به تیک زدن فرگمنت هست که ریلیتی‌هامون از کار بیفته نه نیاز به ایمپورت کردن Json هست.
+
+نمونه: 
+vless://123456789987654@discord:443?type=ws&host=domain&path=/&security=tls&fp=chrome&sni=domain&alpn=h2,http/1.1&fragment=20-40,5-10,tlshello#Remark
+
+منظور دقیقا نمونه بالاست که تنظیمات فرگمنت بصورت مجزا برای هر کانفیگ قابل مشخص کردن باشه و از قسمت تنظیمات v2rayNG برداشته بشه که روی همه کانفیگ‌ها اعمال نشه.
+
+شخصی که فرگمنت رو به v2rayNG اضافه کردن اسمش وحید هست. دوست عزیزی همین مطلبی که الان توضیح داده شده رو اطلاع داده که شاید در صورت امکان وحید مجدد این تغییرات رو اعمال کنه‌.
+
+https://github.com/2dust/v2rayNG/pull/2839#issuecomment-1957411409
+
+از شما می‌خوایم اگر براتون ممکنه لطفا این کامنت رو توی گیت‌هاب لایک کنین و زیرش کامنت بزارین که این فیچر رو می‌خواین تا شاید نظر توسعه دهنده های v2rayNG و همینطور وحید جلب بشه.
+
+#Request
+
+Legendaryking Servers, [2/21/2024 10:07 PM]
+🦈Px MCI ws | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://5d6ccd24-4174-4e5e-a5bd-2d6157352ab8@www.legendaryking.link:8080?security=&fp=chrome&type=ws&path=/Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers?ed%3D2048&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&encryption=none#Px%20MCI
+
+🤍 کانفیگ معمولی ؛ فقط همراه‌اول
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
+
+Legendaryking Servers, [2/21/2024 10:07 PM]
+🦈ThePx gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://89640f33-6f49-401d-8e8c-a63b4f5da217@www.legendaryking.link:443?security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&encryption=none#ThePx
+
+🤍 کانفیگ معمولی نامحدود تا زمان نامشخص 
+
+‼️ MCI Needs Internal Fragment (https://t.me/c/1698381150/5672)
+
+📱 Android (https://t.me/c/1698381150/5666)
+
+ (https://t.me/c/1698381150/2769)📱 iOS +16 (https://t.me/c/1698381150/2485) | Older iOS
+
+ (https://t.me/c/1698381150/2241)💻 Windows (https://t.me/c/1698381150/3123)
