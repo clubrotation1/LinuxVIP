@@ -1,2 +1,2 @@
 ﻿## dnscircllu DoH
-sdns://AgAAAAAAAAAAHmh0dHBzOi8vZG5zLmNpcmNsLmx1L2Rucy1xdWVyeQAACi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAG2h0dHBzOi8vMjIzLjUuNS41L2Rucy1xdWVyeQAACi9kbnMtcXVlcnk
