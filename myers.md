@@ -1,2 +1,2 @@
 ﻿## myname DoH
-url:https://dns.circl.lu/dns-query
+URL:"https://dns.circl.lu/dns-query"
