@@ -1,1 +1,14 @@
-
+##adfreedns.top
+sdns://AgAAAAAAAAAACzg5LjU4LjMuMjUxAA1hZGZyZWVkbnMudG9wCi9kbnMtcXVlcnk
+##dns.adguard-dns.com
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1ABNkbnMuYWRndWFyZC1kbnMuY29tCi9kbnMtcXVlcnk
+##unfiltered.adguard-dns.com
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1ABp1bmZpbHRlcmVkLmFkZ3VhcmQtZG5zLmNvbQovZG5zLXF1ZXJ5
+##dns.alidns.com
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1AA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+##dns.anon.no
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1AAtkbnMuYW5vbi5ubwovZG5zLXF1ZXJ5
+##dns.bitservices.io
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1ABJkbnMuYml0c2VydmljZXMuaW8KL2Rucy1xdWVyeQ
+##dns.crystalyx.net
+sdns://AgAAAAAAAAAACzEwLjEwLjM0LjM1ABFkbnMuY3J5c3RhbHl4Lm5ldAovZG5zLXF1ZXJ5
